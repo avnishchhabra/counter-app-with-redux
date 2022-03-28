@@ -1,0 +1,7 @@
+all components subscribe to the store
+
+
+action : {
+    type: "incBYVal",
+    payload: 5
+}
